@@ -1,6 +1,6 @@
 import os
 
-path = 'gaoliang'
+path = 'mcc17_daily'
 prefix = 'https://cdn.jsdelivr.net/gh/xieqk/gallery-cdn/'
 final_str = '<photos>'
 
