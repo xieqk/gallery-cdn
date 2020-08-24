@@ -1,6 +1,6 @@
 import os
 
-path = '2013shangxue/suijiang'
+path = '2013shangxue/shanghai'
 prefix = 'https://cdn.jsdelivr.net/gh/xieqk/gallery-cdn/'
 final_str = '<photos>'
 
